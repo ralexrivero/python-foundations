@@ -1,7 +1,5 @@
 ### Lección sobre el Uso del Condicional `if` en Python
 
-Como profesor experto en Python, voy a guiarlos a través de una lección completa sobre el uso del condicional `if` en Python. El condicional `if` es una estructura fundamental de control de flujo en la programación, que permite ejecutar ciertas acciones basadas en si una condición es verdadera o falsa.
-
 #### Concepto del Condicional `if`
 
 El condicional `if` evalúa una expresión lógica y ejecuta un bloque de código si la condición es `True`. Si la condición es `False`, el bloque de código bajo el `if` no se ejecuta.
