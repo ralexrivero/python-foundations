@@ -28,6 +28,33 @@ Para reforzar el aprendizaje, se proporcionan ejercicios prácticos. Estos ejerc
 
 - [Ejercicios](./04-ejercicios.md)
 
+### 5. Operadores Lógicos en Python
+
+En esta sección, se exploran los operadores lógicos en Python, que permiten realizar operaciones booleanas y tomar decisiones basadas en condiciones.
+
+- [Operadores Lógicos en Python](./05-operadores_logicos.md)
+
+### 6. Operadores de Comparación en Python
+
+Aquí se abordan los operadores de comparación en Python, que se utilizan para comparar valores y evaluar condiciones.
+
+- [Operadores de Comparación en Python](./06-operadores_comparacion.md)
+
+### 7. Estructuras Condicionales en Python
+
+En esta sección, se estudian las estructuras condicionales en Python, como el condicional "if", que permiten ejecutar diferentes bloques de código según condiciones específicas.
+
+- [Condicional "if" en Python](./07-condicional_if.md)
+
+### 8. Bucles en Python
+
+En esta sección, se exploran los bucles en Python, como el bucle "for" y el bucle "while", que permiten repetir bloques de código varias veces.
+
+- [Bucle "for" en Python](./10-bucle_for.md)
+- [Tipos de Bucles "for" en Python](./10-tipos_de_for.md)
+- [Ejemplos de Bucles "for" en Python](./10-bucle_for_ejemplos.md)
+- [Bucle "while" en Python](./11-bucle_while.md)
+
 ## Recomendaciones para el Estudio
 
 - Sigue el orden de los materiales para una mejor comprensión.
