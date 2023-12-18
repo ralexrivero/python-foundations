@@ -60,3 +60,10 @@ En esta sección, se exploran los bucles en Python, como el bucle "for" y el buc
 - Sigue el orden de los materiales para una mejor comprensión.
 - Practica con los ejercicios proporcionados.
 - No dudes en repasar los temas si es necesario.
+
+
+## Examen Oral
+
+- [examen 1](./t03-examen.md)
+- [examen 2](./t04-examen.md)
+- [examen 3](./t05-examen.md)
